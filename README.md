@@ -1,5 +1,3 @@
-# refugeehackathon-projects
-refugeehackathon project ideas
-
-all projects are documented in our wiki:
+Sammlung von Projektideen und bereits gestarteten (IT) Projekten zur Flüchtlingshilfe.
+Die Projekte findet man im [Wiki](https://github.com/hackerstolz/refugeehackathon-projects/wiki) dieses Repositories:
 https://github.com/hackerstolz/refugeehackathon-projects/wiki
